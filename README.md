@@ -31,6 +31,7 @@
 ### 🛠️ Tecnologías y Herramientas
 
 <p align="left">
+  <!-- Frontend -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" alt="Vue" />
@@ -38,6 +39,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
   <br>
+  <!-- Backend & herramientas -->
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -47,26 +49,21 @@
 
 ---
 
-### 📊 Actividad y Métricas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jhona1836&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhona1836&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
-</div>
-
-<br>
+### 🕹️ GitHub Pacman Contribution
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jhona1836/Jhona1836/pacman-output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jhona1836/Jhona1836/pacman-output/pacman-contribution-graph.svg">
-    <img alt="Juego Pacman de Contribuciones" src="https://raw.githubusercontent.com/Jhona1836/Jhona1836/pacman-output/pacman-contribution-graph.svg">
+    <img alt="Juego Pacman" src="https://raw.githubusercontent.com/Jhona1836/Jhona1836/pacman-output/pacman-contribution-graph.svg">
   </picture>
 </div>
 
 ---
 
-### 🕹️ Git Contribution Snake
+### 📊 Métricas de Resumen rápido
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Jhona1836/Jhona1836/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://img.shields.io/github/followers/Jhona1836?label=Seguidores&style=for-the-badge&color=21262d" alt="Seguidores" />
+  <img src="https://img.shields.io/github/stars/Jhona1836?label=Estrellas%20Totales&style=for-the-badge&color=21262d" alt="Estrellas" />
 </div>
