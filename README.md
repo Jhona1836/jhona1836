@@ -49,14 +49,10 @@
 
 ---
 
-### 🕹️ GitHub Pacman Contribution
+### 🕹️ 
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jhona1836/Jhona1836/pacman-output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jhona1836/Jhona1836/pacman-output/pacman-contribution-graph.svg">
-    <img alt="Juego Pacman" src="https://raw.githubusercontent.com/Jhona1836/Jhona1836/pacman-output/pacman-contribution-graph.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/Jhona1836/Jhona1836/main/github-metrics.svg" alt="Juego Pacman Animado" />
 </div>
 
 ---
