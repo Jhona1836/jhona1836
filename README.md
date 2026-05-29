@@ -23,13 +23,15 @@
 ### 🛠️ Tecnologías y Herramientas
 
 <div align="left">
+  <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="35" alt="vuejs logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original&color=white.svg" height="35" alt="tailwind logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="35" alt="tailwind logo" />
   <br><br>
+  <!-- Backend & BD -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="35" alt="laravel logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="php logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo" />
@@ -48,17 +50,17 @@
 ### 📊 Mis Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Jhona1836/Jhona1836/stats-output/stats.svg" height="160" alt="stats graph" />
-  <img src="https://raw.githubusercontent.com/Jhona1836/Jhona1836/languages-output/languages.svg" height="160" alt="languages graph" />
+  <img src="https://github.com/Jhona1836/Jhona1836/blob/stats-output/stats.svg?raw=true" height="160" alt="stats graph" />
+  <img src="https://github.com/Jhona1836/Jhona1836/blob/languages-output/languages.svg?raw=true" height="160" alt="languages graph" />
 </div>
 
 <br>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jhona1836/Jhona1836/pacman-output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jhona1836/Jhona1836/pacman-output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Jhona1836/Jhona1836/pacman-output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Jhona1836/Jhona1836/blob/pacman-output/pacman-contribution-graph-dark.svg?raw=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Jhona1836/Jhona1836/blob/pacman-output/pacman-contribution-graph.svg?raw=true">
+    <img alt="pacman contribution graph" src="https://github.com/Jhona1836/Jhona1836/blob/pacman-output/pacman-contribution-graph.svg?raw=true">
   </picture>
 </div>
 
