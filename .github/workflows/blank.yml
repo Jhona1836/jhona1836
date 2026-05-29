@@ -11,17 +11,18 @@ on:
       - Inicio
 
 jobs:
-  build:
+  github-metrics:
     runs-on: ubuntu-latest
     steps:
-      # Descarga el repositorio
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      # Genera el juego de Pacman usando tus contribuciones
-      - name: Pacman Gary
-        uses: jasonlong/github-readme-pacman@main
+      - name: Generar Pacman
+        uses: lowlighter/metrics@latest
         with:
-          github_user_name: ${{ github.repository_owner }}
-          current_branch: pacman-output
-          output_directory: pacman-output
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: Jhona1836
+          template: classic
+          base: "" # No genera estadísticas extras, solo el juego
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          # Configuración especial para activar el formato Pacman animado
+          config_twemoji: yes
+          plugin_pagespeed: no
