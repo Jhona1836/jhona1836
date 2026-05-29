@@ -51,9 +51,10 @@
 
 ### 🕹️ 
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Jhona1836/Jhona1836/main/github-metrics.svg" alt="Juego Pacman Animado" />
-</div>
+![](https://github-readme-stats.shion.dev/api?username=JHONA1836&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=JHONA1836&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=JHONA1836&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ---
 
