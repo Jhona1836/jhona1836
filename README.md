@@ -1,4 +1,6 @@
-<h1 align="center">Hola 👋! Soy Jhonatan</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hola,%20soy%20Jhonatan%20👋&fontSize=45&animation=twinkling" alt="Banner Animado" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jhona1836&color=41b883&style=flat-square&label=Visitas+al+perfil" alt="Contador de visitas" />
@@ -29,7 +31,6 @@
 ### 🛠️ Tecnologías y Herramientas
 
 <p align="left">
-  <!-- Frontend -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" alt="Vue" />
@@ -37,7 +38,6 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
   <br>
-  <!-- Backend & herramientas -->
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -47,15 +47,11 @@
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
+### 📊 Actividad y Métricas de GitHub
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Jhona1836/Jhona1836/stats-output/stats.svg" height="160" alt="Estadísticas de GitHub" />
-  <img src="https://raw.githubusercontent.com/Jhona1836/Jhona1836/languages-output/languages.svg" height="160" alt="Lenguajes más usados" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jhona1836&theme=tokyonight&hide_border=true" height="160" alt="Racha de contribuciones" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jhona1836&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhona1836&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
 </div>
 
 <br>
@@ -70,7 +66,7 @@
 
 ---
 
-### 💡 Una frase para el día
+### 🕹️ Git Contribution Snake
 <div align="center">
-  <img src="https://readme-quotes-five.vercel.app/api?theme=tokyonight&disableAnimations=true" alt="Frase de programación dinámica" />
+  <img src="https://raw.githubusercontent.com/Jhona1836/Jhona1836/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
